@@ -1,0 +1,53 @@
+# Віртуальне оточення
+ivanohlu/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Docker
+*.tar
+
+# Logs
+*.log
+
+# Generated output files
+languages_gtrans4.txt
+languages_gtrans3.txt
+languages_deeptr.txt
+Steve_Jobs_text_en.txt
+Steve_Jobs_text_de.txt
+Steve_Jobs_text_fr.txt
